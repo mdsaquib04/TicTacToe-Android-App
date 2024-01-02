@@ -30,5 +30,6 @@ Describe how the game is played, including any specific rules or instructions. F
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/screenshots/Grid.png)
+![Screenshot 2](/screenshots/X_win.png)
+![Screenshot 2](/screenshots/O_win.png)
