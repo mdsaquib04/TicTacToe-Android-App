@@ -9,9 +9,6 @@ Welcome to the TicTacToe Android Game project! This simple yet entertaining game
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
